@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/RenzoAz400/3e9617c0-985d-4d86-99a1-ad4fd2187dda/e8459e42-d849-490c-b7a2-089ecf157236/_apis/work/boardbadge/f655de17-290b-4258-a930-848769dbf6c5)](https://dev.azure.com/RenzoAz400/3e9617c0-985d-4d86-99a1-ad4fd2187dda/_boards/board/t/e8459e42-d849-490c-b7a2-089ecf157236/Microsoft.RequirementCategory)
 #AFCentral![afcentral](https://user-images.githubusercontent.com/75373580/180165887-a4ca9f2d-f851-47be-bfd2-2f4481ed66ce.png)
